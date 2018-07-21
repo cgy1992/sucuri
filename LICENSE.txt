@@ -1,4 +1,4 @@
-Copyright (c) 2018 Sucuri
+Copyright (c) 2018 Marcos Stefani Rosa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
